@@ -1,0 +1,16 @@
+license for the dictionary..'
+Hey friends,
+you can change it,modify it, distribute it and 
+enjoy it and share it more and more ..
+use it to learn.
+you can use this software as you wish but
+i request dont't make any commercial use of it.
+	>>Howto:<<
+Use options from 1-4,using numpad and 
+# if you use mode 1 : it will search words for you
+ 	    	    e.g: try searching "Apple","Water",etc..
+# you can add words to dictionary using mode 2.
+
+# use mode 3 to delete words.
+
+# use 4 to exit.	
